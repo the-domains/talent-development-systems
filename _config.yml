@@ -1,0 +1,14 @@
+layout_spectrum: 0.1848371
+color:
+  saturation: 1
+  lightness: 0.3590226
+  brandStrength: 0.6129315
+  brandColors:
+    - '#000000'
+    - '#3F3F3F'
+    - '#737373'
+    - '#A6A6A6'
+    - '#FFFFFF'
+  rhythmicContrast: 0.7443609
+typography_spectrum: 0.4342105
+name: 'Talent Development Systems '
